@@ -154,3 +154,10 @@ This repository is a learning-focused React Native application. It contains the 
 ## License
 
 This project is licensed under the MIT License.
+
+## Additional portfolio skills
+
+- React Native mobile UI composition with reusable components and platform-specific Android/iOS project configuration.
+- Redux state modeling with actions, reducers, Provider, and connected components.
+- Expandable list interaction, layout animation, form controls, reusable cards, headers, buttons, and loading indicators.
+- JavaScript/JSX, Android Java, iOS Objective-C, Gradle/Groovy, XML, JSON, npm, Metro, Babel, Jest, ESLint, Android Studio, Xcode, CocoaPods, Watchman, Flow configuration, and Buck configuration.
